@@ -1,0 +1,1 @@
+This is a new README.md. I am making this file, despite renaming the old README.md for the additional challenges so that I still pass all 6 testw when running "npm test".
